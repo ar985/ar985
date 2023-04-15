@@ -1,0 +1,7 @@
+VSCoden näppäinyhdistelmiä:
+    - ctrl+alt+arrow    = lisää kursorin ylä- tai alapuolelle
+    - alt-shft+arrow    = kopioi rivin ylä- tai alapuolelle
+    - alt+arrow         = siirtää rivin ylä- ta alapuolelle
+    - ctrl+,            = asetukset
+    - ctrl+shft+P       = avaa komentovalikon
+    - ctrl+K+S          = avaa näppäimistöyhdistelmä valikon
